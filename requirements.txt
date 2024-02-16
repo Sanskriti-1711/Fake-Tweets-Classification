@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+langid
+nltk
+os
+sklearn
